@@ -2,6 +2,8 @@
 CTSM
 ====
 
+**This is the corrected code for the publication ERL-106754. To reproduce the results in ERL-106754 use the** [original code](https://github.com/RonnyMeier/ctsm/tree/ERL-106754.R1).
+
 The Community Terrestrial Systems Model.
 
 This includes the Community Land Model (CLM5.0 and CLM4.5) of the Community Earth System Model.
