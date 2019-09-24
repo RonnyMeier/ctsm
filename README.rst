@@ -2,7 +2,7 @@
 CTSM
 ====
 
-**This is the corrected code for the publication ERL-106754. To reproduce the results in ERL-106754 use https://github.com/RonnyMeier/ctsm/tree/ERL-106754.R1.**
+**This is the corrected code for the publication ERL-106754 (https://iopscience.iop.org/article/10.1088/1748-9326/ab2b4e). To reproduce the results in ERL-106754 use https://github.com/RonnyMeier/ctsm/tree/ERL-106754.R1.**
 
 The Community Terrestrial Systems Model.
 
